@@ -70,12 +70,7 @@ I enjoy building reliable systems that ship fast and stay up. I'm open to DevOps
 ![MTTR](https://img.shields.io/badge/MTTR-down_25%25-FFD23F?style=for-the-badge&labelColor=333333)
 ![SLA](https://img.shields.io/badge/SLA_adherence-95%25-4ADE80?style=for-the-badge)
 
-## 📊 GitHub Snapshot
-
-![GitHub stats](https://github-readme-stats.vercel.app/api?username=lavadevi30&show_icons=true&bg_color=0B0B0D&title_color=FF7F50&text_color=A9A9B6&icon_color=C6B5FF&border_color=2A2A32)
-![Top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lavadevi30&layout=compact&bg_color=0B0B0D&title_color=FF7F50&text_color=A9A9B6&border_color=2A2A32)
-![GitHub streak](https://streak-stats.demolab.com?user=lavadevi30&background=0B0B0D&ring=FF7F50&fire=FF7F50&currStreakLabel=C6B5FF&sideLabels=A9A9B6&currStreakNum=F5F5F7&sideNums=F5F5F7&dates=A9A9B6&stroke=2A2A32&border=2A2A32)
-
+ 
 ## 🤝 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-lavanya--devops-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/lavanya-devops)
